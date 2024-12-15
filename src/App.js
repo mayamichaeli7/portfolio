@@ -6,6 +6,8 @@ import Contact from "./components/Contact/contact";
 import Footer from "./components/Footer/footer";
 
 function App() {
+  console.log("hey");
+
   return (
     <div className="App">
       <Navbar />
